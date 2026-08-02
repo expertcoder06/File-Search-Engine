@@ -1,0 +1,3 @@
+The C++ language is powerful.
+This engine uses inverted index for fast keyword search!
+Search performance is optimized.
